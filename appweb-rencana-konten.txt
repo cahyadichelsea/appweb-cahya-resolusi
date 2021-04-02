@@ -3,3 +3,4 @@ Rencana konten appweb cah
   list barang
   list harga
 - vlog
+- fundamental data structur
