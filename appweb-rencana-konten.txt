@@ -3,4 +3,6 @@ Rencana konten appweb cah
   list barang
   list harga
 - vlog
+  membahas teori teknologi
+  membahas jaringan 
 - fundamental data structur
