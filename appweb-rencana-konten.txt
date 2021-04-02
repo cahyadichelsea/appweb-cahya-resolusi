@@ -2,6 +2,7 @@ Rencana konten appweb cah
 - fitur market place
   list barang
   list harga
-  harga diskon
-
+- vlog
+  membahas teori teknologi
+  membahas jaringan 
 - fundamental data structur
